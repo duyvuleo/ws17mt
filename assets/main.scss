@@ -1,0 +1,114 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+// Our variables
+$base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+$base-font-size:   16px;
+$base-font-weight: 400;
+$small-font-size:  $base-font-size * 0.875;
+$base-line-height: 1.5;
+
+$spacing-unit:     30px;
+
+$text-color:       #111;
+$background-color: #fdfdfd;
+$brand-color:      #2a7ae2;
+
+$grey-color:       #828282;
+$grey-color-light: lighten($grey-color, 40%);
+$grey-color-dark:  darken($grey-color, 25%);
+
+// Width of the content area
+$content-width:    800px;
+
+$on-palm:          600px;
+$on-laptop:        800px;
+
+// Minima also includes a mixin for defining media queries.
+// Use media queries like this:
+// @include media-query($on-palm) {
+//     .wrapper {
+//         padding-right: $spacing-unit / 2;
+//         padding-left: $spacing-unit / 2;
+//     }
+// }
+
+// Import partials from the `minima` theme.
+@import "minima";
+
+
+$top-nav-height: 40px;
+$banner-height: 250px;
+
+
+.site-header {
+    border: none;
+}
+
+.banner {
+    padding: 30px 15px;
+    /* margin-bottom: 30px; */
+//    height: 300px;
+    margin: 5px auto;
+    max-width: 1013px;
+    height: $banner-height;
+    background-image: url({{ "/images/melbourne-misty.jpeg" | prepend: site.github.url }});
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: cover;
+    border: none;
+}
+
+.site-nav-wrapper {
+    max-width: $content-width - 2 * $spacing-unit;
+    float: none;
+    margin: 10px auto;
+    height: $top-nav-height; 
+    padding: 0 $spacing-unit;   
+}
+
+.site-nav {
+    line-height: $top-nav-height;
+    vertical-align: middle;
+}
+
+.site-title {
+    float: right;
+    font-weight: 500;
+    font-size: 50px;
+}
+
+.site-sub-title-wrapper {
+    height: $banner-height;
+}
+
+.site-sub-title {
+    float: left;
+    vertical-align: bottom;
+    color: white;
+    position: absolute;
+    bottom: 10px;
+    .sub-title-main {
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 110%;
+        margin-bottom: 10px;
+    }
+    .sub-title-extra {
+        font-size: 15px;
+    }
+    background-color: #424242;
+    opacity: 0.7;
+    padding: 10px;
+}
+    
+
+.org-logo {
+    float: left; 
+    vertical-align: middle;
+    img {   
+        max-height: $top-nav-height - 10px;
+    }
+}
