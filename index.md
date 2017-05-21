@@ -17,7 +17,7 @@ It includes Summer School (June 19-30, 2017) and 2017 Workshop Program (July 3-A
 
 ### Research Focus
 
-* Neural Machine Translation with Minimal Parallel Resources (Leader: George Foster - National Research Council Canada)
+Our JSALT 2017 MT Team will focus mainly on tackling the research in Neural Machine Translation with Minimal Parallel Resources. Check out more details on our [team](https://duyvuleo.github.io/ws17mt/team.html) and [research](https://duyvuleo.github.io/ws17mt/research.html) details. 
 
 ### JSALT 2017 MT Team
 
