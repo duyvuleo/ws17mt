@@ -15,4 +15,3 @@ the [Melbourne Convention and Exhibition Centre](http://mcec.com.au/) July 15-20
 * Tim Baldwin, The University of Melbourne
 * Karin Verspoor, The University of Melbourne
 * Trevor Cohn, The University of Melbourne
-
