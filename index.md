@@ -3,15 +3,20 @@ layout: page
 title: About
 ---
 
-The 56th Annual Meeting of the Association for Computational Linguistics will be held in Melbourne, Australia at
-the [Melbourne Convention and Exhibition Centre](http://mcec.com.au/) July 15-20 2018.
+The 2017 Annual Jelinek Memorial Workshop on Speech and Language Technology (JSALT) will be held at Carnegie Mellon University Language Technologies Institute in Pittsburgh, PA.
+It includes Summer School (June 19-30, 2017) and 2017 Workshop Program (July 3-August 11, 2017).
 
-### General Chair
+### Research Topic
 
-* Claire Cardie, Cornell University
+* Neural Machine Translation with Minimal Parallel Resources (Leader: George Foster - National Research Council Canada)
 
-### Local Chairs
 
-* Tim Baldwin, The University of Melbourne
-* Karin Verspoor, The University of Melbourne
-* Trevor Cohn, The University of Melbourne
+### Organizing Committee
+
+* Sanjeev Khudanpur, Carnegie Mellon University
+* Florian Metze, Carnegie Mellon University
+* Alan Black, Carnegie Mellon University
+
+### MT Team
+
+
