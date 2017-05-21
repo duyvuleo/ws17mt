@@ -3,11 +3,6 @@ layout: page
 title: About JSALT
 ---
 
----
-layout: page
-title: Research Focus
----
-
 The 2017 Annual Jelinek Memorial Workshop on Speech and Language Technology (JSALT) will be held at Carnegie Mellon University Language Technologies Institute in Pittsburgh, PA.
 It includes Summer School (June 19-30, 2017) and 2017 Workshop Program (July 3-August 11, 2017).
 
