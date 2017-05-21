@@ -4,6 +4,9 @@
         {% if my_page.title %}
         <a class="page-link" href="{{ my_page.url | prepend: site.github.url }}">{{ my_page.title | escape }}</a>
         {% endif %}
+	{% if my_page.research %}
+        <a class="page-link" href="{{ my_page.url | prepend: site.github.url }}">{{ my_page.research | escape }}</a>
+        {% endif %}
       {% endfor %}
   </nav>
 </div>
