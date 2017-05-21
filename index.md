@@ -16,6 +16,39 @@ It includes Summer School (June 19-30, 2017) and 2017 Workshop Program (July 3-A
 
 * Neural Machine Translation with Minimal Parallel Resources (Leader: George Foster - National Research Council Canada)
 
-### MT Team
+### JSALT 2017 MT Team
 
+* Senior Members
+
+  * Colin Cherry, NRC Canada 
+
+  * George Foster, Google Research
+
+  * Reza Haffari, Monash
+
+  * Patrick Littell, CMU
+
+  * David Mortensen, CMU 
+
+* Graduate Students
+
+  * Daniel Beck, Melbourne 
+
+  * Gaurav Kumar, JHU 
+
+  * Anna Currey, Edinburgh 
+
+  * Vu (Cong Duy) Hoang, Melbourne
+
+* Undergrad Students
+
+  * Dylan Lewis, JHU   
+
+  * Ji Xin, Tsinghua
+
+* Affiliate Members
+
+  * Sanjeev Khudanpur, JHU 
+
+  * Philipp Koehn, JHU  
 
