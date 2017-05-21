@@ -54,7 +54,7 @@ $banner-height: 250px;
     margin: 5px auto;
     max-width: 1013px;
     height: $banner-height;
-    background-image: url({{ "/images/melbourne-misty.jpeg" | prepend: site.github.url }});
+    background-image: url({{ "/images/cmu.jpeg" | prepend: site.github.url }});
     background-repeat: no-repeat;
     background-position: top center;
     background-size: cover;
@@ -65,8 +65,8 @@ $banner-height: 250px;
     max-width: $content-width - 2 * $spacing-unit;
     float: none;
     margin: 10px auto;
-    height: $top-nav-height; 
-    padding: 0 $spacing-unit;   
+    height: $top-nav-height;
+    padding: 0 $spacing-unit;
 }
 
 .site-nav {
@@ -103,12 +103,12 @@ $banner-height: 250px;
     opacity: 0.7;
     padding: 10px;
 }
-    
+
 
 .org-logo {
-    float: left; 
+    float: left;
     vertical-align: middle;
-    img {   
+    img {
         max-height: $top-nav-height - 10px;
     }
 }
