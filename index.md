@@ -31,7 +31,6 @@ title: Neural Machine Translation with Minimal Parallel Resources
   </div>
 </div>
 
-
 <div class="media">
   <div class="media-body">
     <strong>Patrick Littell</strong>.
@@ -45,6 +44,8 @@ title: Neural Machine Translation with Minimal Parallel Resources
     CMU<br/>
   </div>
 </div>
+
+<p>&nbsp;</p>
 
 <h4>Graduate Students</h4>
 <div class="media">
@@ -75,6 +76,8 @@ title: Neural Machine Translation with Minimal Parallel Resources
   </div>
 </div> 
 
+<p>&nbsp;</p>
+
 <h4>Undergraduate Students</h4>
 <div class="media">
   <div class="media-body">
@@ -89,6 +92,8 @@ title: Neural Machine Translation with Minimal Parallel Resources
     Tsinghua<br/>
   </div>
 </div> 
+
+<p>&nbsp;</p>
 
 <h4>Affiliate Members</h4>
 <div class="media">
