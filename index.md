@@ -7,7 +7,7 @@ title: Neural Machine Translation with Minimal Parallel Resources
 <li><span style="font-size: 12pt;">Learning the translation relation from monolingual corpora by bootstrapping from a small parallel corpus or dictionary.</span></li>
 <li style="text-align: justify;"><span style="font-size: 12pt;">Developing NMT architectures capable of exploiting the linguistic knowledge expressed in richly annotated corpora.</span></li>
 </ul>
-<p style="text-align: justify;"><span style="font-size: 12pt;">See our <a href="https://duyvuleo.github.io/ws17mt/research.html">research statement</a> and <a href="https://duyvuleo.github.io/ws17mt/team.html">team members</a> for more details.</span></p>
+<p style="text-align: justify;"><span style="font-size: 12pt;">See our <a href="https://duyvuleo.github.io/ws17mt/research.html">research statement</a> for more details.</span></p>
 <p><span style="font-size: 18pt;"><strong>JSALT 2017 MT Team</strong></span></p>
 <h4>Senior Members</h4>
 <div class="media">
