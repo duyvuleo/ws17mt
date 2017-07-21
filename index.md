@@ -115,4 +115,26 @@ title: Neural Machine Translation with Minimal Parallel Resources
     <strong>Florian Metze</strong>.
     CMU<br/>
   </div>
+</div>
+
+<div class="media">
+  <div class="media-body">
+    <strong>Kevin Duh</strong>.
+    JHU<br/>
+  </div>
 </div> 
+
+<div class="media">
+  <div class="media-body">
+    <strong>Deepak Gopinath</strong>.
+    Facebook<br/>
+  </div>
+</div> 
+
+<div class="media">
+  <div class="media-body">
+    <strong>Felix Hieber</strong>.
+    Amazon<br/>
+  </div>
+</div>
+ 
