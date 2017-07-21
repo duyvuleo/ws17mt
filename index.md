@@ -99,13 +99,6 @@ title: Neural Machine Translation with Minimal Parallel Resources
 
 <div class="media">
   <div class="media-body">
-    <strong>Philipp Koehn</strong>.
-    JHU<br/>
-  </div>
-</div> 
-
-<div class="media">
-  <div class="media-body">
     <strong>Kevin Duh</strong>.
     JHU<br/>
   </div>
@@ -115,6 +108,13 @@ title: Neural Machine Translation with Minimal Parallel Resources
   <div class="media-body">
     <strong>Deepak Gopinath</strong>.
     Facebook<br/>
+  </div>
+</div> 
+
+<div class="media">
+  <div class="media-body">
+    <strong>Philipp Koehn</strong>.
+    JHU<br/>
   </div>
 </div> 
 
