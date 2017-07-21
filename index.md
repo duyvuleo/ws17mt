@@ -96,12 +96,6 @@ title: Neural Machine Translation with Minimal Parallel Resources
 <p>&nbsp;</p>
 
 <h4>Affiliate Members</h4>
-<div class="media">
-  <div class="media-body">
-    <strong>Sanjeev Khudanpur</strong>.
-    JHU<br/>
-  </div>
-</div>
 
 <div class="media">
   <div class="media-body">
@@ -109,13 +103,6 @@ title: Neural Machine Translation with Minimal Parallel Resources
     JHU<br/>
   </div>
 </div> 
-
-<div class="media">
-  <div class="media-body">
-    <strong>Florian Metze</strong>.
-    CMU<br/>
-  </div>
-</div>
 
 <div class="media">
   <div class="media-body">
