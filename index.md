@@ -9,6 +9,7 @@ title: Neural Machine Translation with Minimal Parallel Resources
 </ul>
 <p style="text-align: justify;"><span style="font-size: 12pt;">See our <a href="https://duyvuleo.github.io/ws17mt/research.html">research statement</a> for more details.</span></p>
 <p><span style="font-size: 18pt;"><strong>JSALT 2017 MT Team</strong></span></p>
+<p><span style="font-size: 18pt;"><strong><img src="images/team_img2.jpg" alt="Our Team" /></strong></span></p>
 <h4>Senior Members</h4>
 <div class="media">
   <div class="media-body">
